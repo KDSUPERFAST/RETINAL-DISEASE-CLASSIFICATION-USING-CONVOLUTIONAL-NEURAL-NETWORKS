@@ -1,4 +1,4 @@
-# Retinal Disease Classification using CNN
+<img width="962" height="297" alt="image" src="https://github.com/user-attachments/assets/47e3f71c-f5f1-4d93-808e-0c7b3a296aef" /># Retinal Disease Classification using CNN
 # [Train Model file](https://drive.google.com/drive/folders/1Vhay1rK-FAHX9-6f3j3-6FdqFunVj5pn)
 ## Project Overview
 
@@ -21,13 +21,11 @@ This project implements a Convolutional Neural Network (CNN) to automatically cl
 
 ```
 topic3/
-├── code.ipynb              # Main Jupyter notebook with complete workflow
-├── README.md               # This file
-├── report.md               # Written report analyzing results
-├── presentation-outline.md # Slide content for presentation
-├── speaker-notes.md        # Speaker notes for video presentation
-├── best_model.pth          # Trained model weights
-└── topic.md                # Project requirements
+├── 62FIT4ATI_Group 2_Topic 3.ipynb               # Main Jupyter notebook with complete workflow
+├── README.md                                     # This file
+├── report.docx                                   # Written report analyzing results
+├── 62FIT4ATI_Group 2_Topic 3.pptx                # Slide content for presentation
+
 ```
 
 ## Requirements
@@ -207,13 +205,13 @@ print(f"Predicted: {label} ({conf:.2f}%)")
 
 ## Authors
 
-- Group Members: [Add names here]
-- Course: Applied Deep Learning
-- Institution: Hanoi University
-
+- Group Members: Trần Quang Huy, Nguyễn Thùy Anh, Mộc Khánh Duy
+- Course: 62FIT4ATI
+- Lecturer: Nguyễn Xuân Thắng
 ## License
 
 This project is for educational purposes only.
+
 
 
 
