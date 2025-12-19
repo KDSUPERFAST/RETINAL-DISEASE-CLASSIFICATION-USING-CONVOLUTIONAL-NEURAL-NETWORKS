@@ -1,5 +1,5 @@
 # Retinal Disease Classification using CNN
-
+# Train Model file https://drive.google.com/drive/folders/1Vhay1rK-FAHX9-6f3j3-6FdqFunVj5pn
 ## Project Overview
 
 This project implements a Convolutional Neural Network (CNN) to automatically classify retinal fundus images into 8 eye disease categories. The model uses ConvNeXt-Base architecture with transfer learning and achieves a **Macro F1-Score of 0.7355** on the validation set.
@@ -214,3 +214,4 @@ print(f"Predicted: {label} ({conf:.2f}%)")
 ## License
 
 This project is for educational purposes only.
+
