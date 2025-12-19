@@ -1,4 +1,4 @@
-<img width="962" height="297" alt="image" src="https://github.com/user-attachments/assets/47e3f71c-f5f1-4d93-808e-0c7b3a296aef" /># Retinal Disease Classification using CNN
+# Retinal Disease Classification using CNN
 # [Train Model file](https://drive.google.com/drive/folders/1Vhay1rK-FAHX9-6f3j3-6FdqFunVj5pn)
 ## Project Overview
 
