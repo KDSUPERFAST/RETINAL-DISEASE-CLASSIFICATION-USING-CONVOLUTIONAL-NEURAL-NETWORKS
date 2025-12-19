@@ -205,12 +205,13 @@ print(f"Predicted: {label} ({conf:.2f}%)")
 
 ## Authors
 
-- Group Members: Trần Quang Huy, Nguyễn Thùy Anh, Mộc Khánh Duy
+- Group Members: Trần Quang Huy - Nguyễn Thùy Anh - Mộc Khánh Duy
 - Course: 62FIT4ATI
 - Lecturer: Nguyễn Xuân Thắng
 ## License
 
 This project is for educational purposes only.
+
 
 
 
